@@ -18,7 +18,7 @@ public class StartApp {
         // TODO code application logic here
         
          //Define a solução
-        Algoritimo.setSolucao("Tangamandapio");
+        Algoritimo.setSolucao("Ola Mundo");
         //Define os caracteres existentes
         Algoritimo.setCaracteres("!,.:;?áÁãÃâÂõÕôÔóÓéêÉÊíQWERTYUIOPASDFGHJKLÇZXCVBNMqwertyuiopasdfghjklçzxcvbnm1234567890 ");
         //taxa de crossover de 60%
